@@ -14,4 +14,9 @@
     - this was not repeated in the other days as the writing was spaced throughout vertially.
 - for devotion, lunch and break I spaced the writing within the displayed rows using rowspan and the number of row "5" and then filled in the subjects in the other data spaces. This was not repeated across Y 8-Y11, as it automatically had the break and lunck writing vertically across each.
 - For the other days, I repeatedc the rowspand for each day, break and lunch and the event at 3:10-3:55
-- I did style the table and its contents under the title as I worked through to ensure each meet the expectation. 
+## Styling
+- Internal CSS
+* I gave time, day, lunch and break class and then I did style the table and its contents under the head section as I worked through to ensure each meet the expectation.
+* (all shown on the index.html and style.css)
+* However, some styles were inline
+ 
