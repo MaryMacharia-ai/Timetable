@@ -1,0 +1,14 @@
+        table{
+            border:1px groove black;
+            border-collapse: collapse;
+            margin: auto; 
+            width: 100px;
+            font-family: sans-serif;
+        }
+        th, td {
+            border:1px groove black;
+            border-collapse: collapse;
+            margin: auto; width: 8px;
+            padding: 2px;
+            word-wrap: break-word;
+          }
